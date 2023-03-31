@@ -28,13 +28,13 @@
 
 ## Conclusões
 
-:heavy_check_mark: `1:` Como podemos ver no primeiro gráfico, China, EUA e Índia e Rússia foram os 4 países que mais emitiram CO2 até o momento.
+:heavy_check_mark: `1` Como podemos ver no primeiro gráfico, China, EUA e Índia e Rússia foram os 4 países que mais emitiram CO2 até o momento.
 
-:heavy_check_mark: `2:` No gráfico que relaciona o uso de energia limpa pelo tempo, podemos ver que, no geral, a porcentagem de seu uso não tem aumentado.
+:heavy_check_mark: `2` No gráfico que relaciona o uso de energia limpa pelo tempo, podemos ver que, no geral, a porcentagem de seu uso não tem aumentado.
 
-:heavy_check_mark: `3:` No primeiro gráfico da direita, relaciona-se as emissões de CO2 com o nível de desenvolvimento, e pode-se observar que, puxados pela China, os países em desenvolvimento representam 52,5% das emissões, seguido pelos países desenvolvidos
+:heavy_check_mark: `3` No primeiro gráfico da direita, relaciona-se as emissões de CO2 com o nível de desenvolvimento, e pode-se observar que, puxados pela China, os países em desenvolvimento representam 52,5% das emissões, seguido pelos países desenvolvidos
 
-:heavy_check_mark: `4:` Abaixo, relaciona-se as emissões totais de CO2 com a região do mundo, em que o hemisfério norte representa a maior parcela.
+:heavy_check_mark: `4` Abaixo, relaciona-se as emissões totais de CO2 com a região do mundo, em que o hemisfério norte representa a maior parcela.
 
 <div align="center">
 
@@ -42,9 +42,9 @@
 
   </div>
 
-:heavy_check_mark: `5:` Ao relacionar as emissões de CO2 com o tempo, pode-se observar que as emissões cresceram 45% em todo o mundo de 2002 a 2019, enquanto que nos países desenvolvidos, ela obteve um decréscimo de 18%.
+:heavy_check_mark: `5` Ao relacionar as emissões de CO2 com o tempo, pode-se observar que as emissões cresceram 45% em todo o mundo de 2002 a 2019, enquanto que nos países desenvolvidos, ela obteve um decréscimo de 18%.
 
-:heavy_check_mark: `6:` A direita, pode-se filtrar e ver a emissão e a porcentagem do uso de energia limpa por nível de desenvolvimento, região do mundo e país.
+:heavy_check_mark: `6` A direita, pode-se filtrar e ver a emissão e a porcentagem do uso de energia limpa por nível de desenvolvimento, região do mundo e país.
 
 <div align="center">
 
