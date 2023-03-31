@@ -52,7 +52,7 @@
 
   </div>
 
-:heavy_check_mark: `7:` Por fim, este gráfico relaciona as emissões de CO2 com a porcentagem do PIB destinada para pesquisas de desenvolvimento(R&D), Dentre os mais emissores, somente o Japão se compromete consideravelmente em R&D, enquanto que o líder em investimento é Israel, representando 0,22% das emissões.
+:heavy_check_mark: `7` Por fim, este gráfico relaciona as emissões de CO2 com a porcentagem do PIB destinada para pesquisas de desenvolvimento(R&D), Dentre os mais emissores, somente o Japão se compromete consideravelmente em R&D, enquanto que o líder em investimento é Israel, representando 0,22% das emissões.
 
 <div align="center">
 
