@@ -38,7 +38,7 @@
 
 <div align="center">
 
-![Imagem 1 do gráfico](https:)
+![Dashboard_mundanca_climatica_page-1](https://user-images.githubusercontent.com/61765025/229004627-856a3ed2-ece2-449e-ab67-a13b39490a35.jpg)
 
   </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![Imagem 2 do gráfico](https:)
+![Dashboard_mundanca_climatica_page-2](https://user-images.githubusercontent.com/61765025/229004647-e1b0a320-86ef-4424-b68b-a01975c896bd.jpg)
 
   </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-![Imagem 3 do gráfico](https:)
+![Dashboard_mundanca_climatica_page-3](https://user-images.githubusercontent.com/61765025/229004685-cf2c6e7f-5a77-4e5d-841a-79f94af9219d.jpg)
 
   </div>
 
